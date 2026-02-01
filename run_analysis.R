@@ -79,6 +79,9 @@ if(!dir.exists("results")){
     dir.create("results")
 }
 
-write.csv(human_activity2, "results/human_activity_recognition_using_smartphones_tidy.csv")
-write.csv(human_activity_mean_summary_by_subject_and_activity, 
-          "results/human_activity_mean_summary_by_subject_and_activity.csv")
+write.table(human_activity2,
+            "results/human_activity_recognition_using_smartphones_tidy.txt",
+            row.name=FALSE )
+write.table(human_activity_mean_summary_by_subject_and_activity, 
+          "results/human_activity_mean_summary_by_subject_and_activity.txt",
+          row.name=FALSE )

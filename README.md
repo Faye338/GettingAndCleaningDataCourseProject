@@ -22,10 +22,10 @@ The resulting datasets are suitable for further analysis or reporting.
 - `run_analysis.R`  
   R script that performs the data cleaning, labeling, and summarization.
 
-- `results/human_activity_recognition_using_smartphones_tidy.csv`  
+- `results/human_activity_recognition_using_smartphones_tidy.txt`  
   Tidy dataset with selected measurements and descriptive variable names.
 
-- `results/human_activity_mean_summary_by_subject_and_activity.csv`  
+- `results/human_activity_mean_summary_by_subject_and_activity.txt`  
   Dataset with the average of each variable for each activity and each subject.
 
 
