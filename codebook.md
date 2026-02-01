@@ -56,9 +56,6 @@ This dataset contains **averages of all mean and standard deviation variables**,
 | TimeBodyAccelerometerStdZ         | Average of `TimeBodyAccelerometerStdZ` for the subject and activity         | Continuous (standardized units)                  |
 | …                                 | … (All remaining mean and std variables)                                     | Continuous (standardized units)                  |
 
-> This dataset is considered the **final tidy dataset** for analysis.  
-> Each row represents a single subject-activity combination, with the mean of each measurement.
-
 ---
 
 ## Additional Notes
