@@ -61,6 +61,5 @@ This dataset contains **averages of all mean and standard deviation variables**,
 ## Additional Notes
 
 - All measurements are in **standardized units** as provided in the original UCI HAR Dataset.
-- Only **mean()** and **std()** measurements are included in both datasets.
 - Variables have been renamed to be descriptive and follow the `CamelCase` convention.
 
